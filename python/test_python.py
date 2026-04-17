@@ -2,7 +2,7 @@
 import os
 import sys
 
-def complex_function(a, b)
+def complex_function(a, b):
     """
     (ENGLISH) This is a docstring to test extraction.
     """
