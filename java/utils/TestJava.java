@@ -5,7 +5,7 @@ import utils.TestJava01;
 public class TestJava {
     public static void main(String[] args) {
         String greeting = "Hello";
-        System.out.println(greeting)
+        System.out.println(greeting);
         TestJava01.test("Hi");
     }
 }
