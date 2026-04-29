@@ -6,6 +6,6 @@ public class TestJava {
     public static void main(String[] args) {
         String greeting = "Hello";
         System.out.println(greeting);
-TestJava01.test(new String[]{"Hi"});
+        TestJava01.test(new String[]{"Hi"});
     }
     }
