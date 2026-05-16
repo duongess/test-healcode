@@ -6,7 +6,7 @@ def calculate_average(numbers):
     total = sum(numbers)
     
     # Co tinh tao ra loi chia cho 0
-    average = total / 0
+        average = total / len(numbers)
     
     return average
 
